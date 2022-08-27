@@ -1,0 +1,59 @@
+[
+    {
+      "title": "3 - lags - rude ( A1 - A3 )",
+      "Hovedkategori": "Komponenter til vinduer og glasfacader",
+      "Mellemkategori": "Fyldninger",
+      "Underkategori": "Transparente fyldninger",
+      "Beskrivelse": "Skriv din beskrivelse her ...",
+      "Fase": "A1 - A3",
+      "Faseenhed": "m²",
+      "Indikatorenhed": "m²",
+      "Indikatorfaktor": "1",
+      "Massefaktor": "30 kg / m²",
+      "Enhedsfaktor": "1m² / m²",
+      "Datatype": "Generisk datasæt",
+      "Kilde": "GenDK",
+      "bottom": {
+        "GWP": "57,7726 kg CO₂ - eq . / m²",
+        "ODP": "3,27918e - 13 kg CFC11 - eq . / m²",
+        "POCP": "0,0135687 kg ethene - eq . / m²",
+        "AP": "0,231052 kg SO₂ - eq . / m²",
+        "EP": "0,0452269 kg PO₁³ - eq . / m²",
+        "ADPE": "2.7019e - 05 kg Sb - eq . / m²",
+        "ADPF": "694,284 MJ / m²",
+        "PERT": "62,9009 MJ / m²",
+        "PENRT": "713,558 MJ / m²",
+        "RSF": "O MJ / m²",
+        "NRSF": "0 MJ / m²"
+      }
+    },
+    {
+      "title": "3 - lags - rude ( C3 )",
+      "Hovedkategori": "Komponenter til vinduer og glasfacader",
+      "Mellemkategori": "Fyldninger",
+      "Underkategori": "Transparente fyldninger",
+      "Beskrivelse": "Skriv din beskrivelse her ....",
+      "Fase": "C3",
+      "Faseenhed": "m²",
+      "Indikatorenhed": "m²",
+      "Indikatorfaktor": "1",
+      "Massefaktor": "30 kg / m²",
+      "Enhedsfaktor": "1m² / m²",
+      "Datatype": "Generisk datasæt",
+      "Kilde": "GenDK",
+      "bottom": {
+        "GWP": "3,03476 kg CO₂ - eq . / m²",
+        "ODP": "2,12621e - 15 kg CFC11 - eq . / m²",
+        "POCP": "3,13968e - 05 kg ethene - eq . / m²",
+        "AP": "0,00033887 kg SO₂ - eq . / m²",
+        "EP": "7,54514e - 05 kg PO₁³ - eq . / m²",
+        "ADPE": "2,21166e - 08 kg Sb - eq . / m²",
+        "ADPF": "1,29989 MJ / m²",
+        "PERT": "0,380897 MJ / m²",
+        "PENRT": "1,43719 MJ / m²",
+        "RSF": "0 MJ / m²³",
+        "NRSF": "O MJ / m²"
+      }
+    }
+  ]
+  
