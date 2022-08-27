@@ -10,5 +10,5 @@
 python -m venv <name_of_venv>
 
 ##  video help
-https://www.youtube.com/watch?v=wfyDiLMGqDM&ab_channel=JieJenn
-https://www.youtube.com/watch?v=zOKz0e8flTw&ab_channel=JieJenn
+-   https://www.youtube.com/watch?v=wfyDiLMGqDM&ab_channel=JieJenn
+-   https://www.youtube.com/watch?v=zOKz0e8flTw&ab_channel=JieJenn
