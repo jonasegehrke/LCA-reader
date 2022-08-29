@@ -5,3 +5,11 @@ VisionAPIDemo/Lib
 VisionAPIDemo/Include
 VisionAPIDemo/Scripts
 VisionAPIDemo/pyvenv.cfg
+
+ExcelToJson/bin
+ExcelToJson/Lib
+ExcelToJson/Include
+ExcelToJson/Scripts
+ExcelToJson/pyvenv.cfg
+
+
